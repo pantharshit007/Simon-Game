@@ -31,7 +31,7 @@ To play the Simon Game, simply open the `index.html` file in your web browser,
 or click [here](https://pantharshit007.github.io/Simon-Game/).
 
 ## Getting Started-II
----------------
+
 To play the Simon Game, follow these steps:
 1. Clone the repository: `git clone https://github.com/pantharshit007/Simon-Game.git`
 2. Open the `index.html` file in your preferred web browser.
