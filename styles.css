@@ -11,7 +11,8 @@ h2{
 }
 h2 a {
   text-decoration: none;
-  color: inherit;
+  /* color: inherit; */
+  color: #FEF2BF;
 }
 
 #level-title {
