@@ -40,7 +40,7 @@ To play the Simon Game, simply open the `index.html` file in your web browser.
 
 ## Author
 
-Harshit Pant || @pantharshit007
+Harshit Pant || [@pantharshit007](https://github.com/pantharshit007)
 
 
 
