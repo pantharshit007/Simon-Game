@@ -9,6 +9,10 @@ h2{
   margin:  5%;
   color: #FEF2BF;
 }
+h2 a {
+  text-decoration: none;
+  color: inherit;
+}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
