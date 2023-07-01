@@ -25,10 +25,18 @@ Simon Game is a browser-based game where players need to memorize and repeat a s
 - Responsive design for different screen sizes.
 - Keeps track of the highest level reached.
 
-## Getting Started
+## Getting Started-I
 
 To play the Simon Game, simply open the `index.html` file in your web browser,
 or click [here](https://pantharshit007.github.io/Simon-Game/).
+
+## Getting Started-II
+---------------
+To play the Simon Game, follow these steps:
+1. Clone the repository: `git clone https://github.com/pantharshit007/Simon-Game.git`
+2. Open the `index.html` file in your preferred web browser.
+3. Press any key to start the game and begin testing your memory skills.
+4. Follow the on-screen instructions to play and enjoy the game.
 
 ## Preview
 
